@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\linh.nguyen22\\Desktop\\WebApplication\\WebApplication\\WebApplication.csproj": {}
+    "C:\\Users\\linh.nguyen22\\Desktop\\Tesst\\Test_Jenkins.git\\WebApplication\\WebApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\linh.nguyen22\\Desktop\\WebApplication\\WebApplication\\WebApplication.csproj": {
+    "C:\\Users\\linh.nguyen22\\Desktop\\Tesst\\Test_Jenkins.git\\WebApplication\\WebApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\linh.nguyen22\\Desktop\\WebApplication\\WebApplication\\WebApplication.csproj",
+        "projectUniqueName": "C:\\Users\\linh.nguyen22\\Desktop\\Tesst\\Test_Jenkins.git\\WebApplication\\WebApplication.csproj",
         "projectName": "WebApplication",
-        "projectPath": "C:\\Users\\linh.nguyen22\\Desktop\\WebApplication\\WebApplication\\WebApplication.csproj",
+        "projectPath": "C:\\Users\\linh.nguyen22\\Desktop\\Tesst\\Test_Jenkins.git\\WebApplication\\WebApplication.csproj",
         "packagesPath": "C:\\Users\\linh.nguyen22\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\linh.nguyen22\\Desktop\\WebApplication\\WebApplication\\obj\\",
+        "outputPath": "C:\\Users\\linh.nguyen22\\Desktop\\Tesst\\Test_Jenkins.git\\WebApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
